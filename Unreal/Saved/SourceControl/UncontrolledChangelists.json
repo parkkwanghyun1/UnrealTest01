@@ -5,7 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/Park/Desktop/unity/Game/UnrealTest01/Unreal/Content/Main.umap"
+				"C:/Users/Park/Desktop/unity/Game/UnrealTest01/Unreal/Content/Main.umap",
+				"C:/Users/Park/Desktop/unity/Game/UnrealTest01/Unreal/Content/E_AniStatus.uasset",
+				"C:/Users/Park/Desktop/unity/Game/UnrealTest01/Unreal/Content/F_Info.uasset"
 			]
 		}
 	]
